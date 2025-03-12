@@ -4,7 +4,7 @@
 
 <template>
   <v-container>
-    <v-btn color="primary" to="/contact">My Button</v-btn>
+    <v-btn color="primary" to="/">Go Back</v-btn>
   </v-container>
 </template>
 
